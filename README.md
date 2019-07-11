@@ -19,7 +19,7 @@ Css
 
 c. If you had a lot of time to do this, what would you do differently?
 
-Test Automatizados com jasp
+Test Automatizados 
 
 Melhorado o design
 
