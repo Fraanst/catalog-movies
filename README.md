@@ -16,7 +16,7 @@ Tentei abordar o requisito utilizando o Firestore, banco de dados não relaciona
 
 c. If you had a lot of time to do this, what would you do differently?
 
-Test Automatizados 
+Test Automatizados front-end
 
 Melhorado o design
 
