@@ -1,0 +1,25 @@
+{
+  "name": "movieanthor-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha src/tests/TestService.js --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "firebase": "^6.2.4",
+    "firebase-admin": "^8.2.0",
+    "mocha": "^6.1.4",
+    "node": "^12.6.0"
+  },
+  "devDependencies": {
+    "@hapi/code": "^5.3.1",
+    "@hapi/lab": "^19.1.0"
+  }
+}
