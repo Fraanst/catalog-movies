@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^18.4.1",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "firebase": "^6.2.4",
@@ -19,7 +19,7 @@
     "node": "^12.6.0"
   },
   "devDependencies": {
-    "@hapi/code": "^5.3.1",
-    "@hapi/lab": "^19.1.0"
+    "@hapi/code": "^9.0.1",
+    "@hapi/lab": "^25.0.1"
   }
 }
